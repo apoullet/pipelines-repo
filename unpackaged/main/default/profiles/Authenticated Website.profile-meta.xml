@@ -107,7 +107,7 @@
     </applicationVisibilities>
     <custom>false</custom>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Account.CleanStatus</field>
         <readable>true</readable>
     </fieldPermissions>
