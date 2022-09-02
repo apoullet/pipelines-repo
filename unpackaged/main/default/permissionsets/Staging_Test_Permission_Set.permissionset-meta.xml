@@ -15,6 +15,11 @@
         <field>Account.chonk_3__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.chonk_4__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Staging Test Permission Set</label>
 </PermissionSet>
