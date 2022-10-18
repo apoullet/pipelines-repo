@@ -1,5 +1,5 @@
 global class ConflictSoup {
     public String hello() {
-        return 'Hello Feature!';
+        return 'Hello Environment!';
     }
 }

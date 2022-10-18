@@ -1,5 +1,5 @@
 global class ConflictClass {
     public String hello() {
-        return 'Hello Feature!';
+        return 'Hello Environment!';
     }
 }
