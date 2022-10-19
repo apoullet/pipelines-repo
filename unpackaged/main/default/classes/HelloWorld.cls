@@ -1,4 +1,4 @@
-global class ConflictClass {
+global class HelloWorld {
     public String hello() {
         return 'Hello Environment!';
     }
