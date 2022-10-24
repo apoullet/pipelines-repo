@@ -1,5 +1,5 @@
 public class MySampleApexClass {
    public static Integer getCalculatedValue (Integer myValue) {
-      return myValue + 12;
+      return myValue + 13;
    }
 }
