@@ -1,5 +1,5 @@
 global class TestDoubleUp {
     public String hello() {
-        return 'Hello Feature!';
+        return 'Hello Environment!';
     }
 }
