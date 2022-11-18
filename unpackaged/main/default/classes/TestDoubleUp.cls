@@ -1,4 +1,4 @@
-public class ProfileDeleter {
+global class TestDoubleUp {
     public String hello() {
         return 'Hello Feature!';
     }
