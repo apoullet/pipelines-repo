@@ -1,4 +1,4 @@
-global class ConflictClass {
+global class RenamedRight {
     public String hello() {
         return 'Hello Environment!';
     }
