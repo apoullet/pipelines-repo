@@ -25,11 +25,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Site</field>
+                <field>Phone</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Phone</field>
+                <field>Site</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
