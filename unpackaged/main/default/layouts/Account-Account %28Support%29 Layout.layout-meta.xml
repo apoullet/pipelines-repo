@@ -29,7 +29,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Phone</field>
+                <field>Renamed_Phone</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
