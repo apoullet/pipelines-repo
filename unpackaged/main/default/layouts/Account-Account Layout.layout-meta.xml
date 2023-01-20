@@ -71,7 +71,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Sic</field>
+                <field>SicRenamed</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
