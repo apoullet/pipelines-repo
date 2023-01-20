@@ -37,7 +37,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>AnnualRevenue</field>
+                <field>AnnualRevenueRenamed</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
