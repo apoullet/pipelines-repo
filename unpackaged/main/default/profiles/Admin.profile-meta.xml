@@ -6,7 +6,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ProfileDeleter</apexClass>
-        <enabled>true</enabled>
+        <enabled>invalid</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>MySampleApexClass</apexClass>
