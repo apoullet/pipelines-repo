@@ -37,6 +37,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>AnnualRevenueRenamedAgainnnnn</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>AnnualRevenueRenamedHereAsWell</field>
             </layoutItems>
         </layoutColumns>
@@ -71,7 +75,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Sic</field>
+                <field>SicRenamed</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
