@@ -9,7 +9,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <field>OwnerIdRenamed</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -38,6 +38,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>AnnualRevenueRenamedAgainnnnn</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>AnnualRevenueRenamedHereAsWell</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
