@@ -9,7 +9,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <field>OwnerIdRenamed</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -37,7 +37,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>AnnualRevenue</field>
+                <field>AnnualRevenueRenamedAgainnnnn</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>AnnualRevenueRenamedHereAsWell</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -71,7 +75,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Sic</field>
+                <field>SicRenamed</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
