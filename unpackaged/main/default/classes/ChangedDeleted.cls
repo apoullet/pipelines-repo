@@ -2,6 +2,6 @@ global class ChangedDeleted {
     public String hello() {
         Integer someNumber = 77;
         Boolean helpfulBool = false;
-        return 'Hello FeatureSkibbap!';
+        return 'Hedog FeatureSkidog!';
     }
 }
