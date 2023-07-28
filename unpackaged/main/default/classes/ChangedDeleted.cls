@@ -2,6 +2,8 @@ global class ChangedDeleted {
     public String hello() {
         return 'Hello EnvironmentSkibbap1!';
     }
+
+
     public String hello2() {
         return 'Hello EnvironmentSkibbap2!';
     }
