@@ -1,5 +1,5 @@
 global class ChangedDeleted {
-    public String hello1() {
+    public String hello() {
         return 'Hello EnvironmentSkibbap1!';
     }
     public String hello2() {
