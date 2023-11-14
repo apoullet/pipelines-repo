@@ -1,4 +1,4 @@
-global class RenamedLeft {
+global class RenamedRight {
     public String hello() {
         return 'Hello Environment!';
     }
