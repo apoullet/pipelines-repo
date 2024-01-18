@@ -41,7 +41,7 @@
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
         "OutputCreationSequence": 0,
-        "OutputFieldName": "blue",
+        "OutputFieldName": "green",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
